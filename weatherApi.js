@@ -32,8 +32,6 @@ const fetchApi = (city) => {
 
 }
 
-
-
 const printInfo = (info) => {
 
     const weatherInfo = info;
