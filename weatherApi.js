@@ -30,7 +30,6 @@ const fetchApi = (city) => {
         })
         .catch(err => alert('Please check city name'))
 
-
 }
 
 
