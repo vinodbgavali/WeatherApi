@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main_body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    color: white;
+}
+
+
+.weather_card{
+    background-color: grey;
+    padding: 20px 50px;
+    width: auto;
+}
+
+.text20{
+    font-size: 50px;
+    font-weight: 700;
+
+}
+
+p,h1{
+    padding-top: 5px;
+}
+
+
+input{
+    height: 30px;
+    padding-left: 10px;
+    width: 200px;
+}
+
+button{
+    width: auto;
+    font-size:18px ;
+    padding: 5px 10px;
+    border-radius: 10px;
+    /* background-color: lightblue;
+    border-color: ligntblue;
+    color: white;
+    border: none; */
+}
+
+/* button:hover {
+    outline: none !important;
+    background-color: yellow;
+} */
+
+
